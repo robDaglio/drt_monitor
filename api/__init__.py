@@ -1,9 +1,9 @@
 import requests
 from requests.auth import HTTPBasicAuth
 
-USER = 'kbadmin'
-PASS = 'Sck2Support'
-CATALOG = 'https://docker.mysck.net/v2/_catalog'
+USER = ''
+PASS = ''
+CATALOG = ''
 HEADERS = {
         'Accept': 'application/vnd.docker.distribution.manifest.v2+json'
     }
